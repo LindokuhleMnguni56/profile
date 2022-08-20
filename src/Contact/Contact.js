@@ -9,7 +9,7 @@ function Contact() {
             </a>
          </div>
          <div>
-            <a href="https://www.linkedin.com/in/jessica-nokwanda-maranjane/">
+            <a href="https://www.linkedin.com/in/lindokuhle-mnguni-012b51223/">
                <BsLinkedin />
             </a>
          </div>

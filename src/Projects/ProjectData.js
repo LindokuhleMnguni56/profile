@@ -4,17 +4,54 @@ import weatherappImg from '../assets/image2.png'
 import planetImage from '../assets/image3.png'
 import onBoardImg from '../assets/image4.png'
 import empImg from '../assets/image5.png'
+import redux from '../assets/redux.png'
+import budget from '../assets/budget.png'
 
 const ProjectData = [
     {
-        title: "Todo App",
+        title: "Redux",
         description: "A fullstack Todo list app running on mobile",
-        codeLink: "https://github.com/codexpression-nj/toDo-ionic5",
-        projectLink: "https://www.canva.com/design/DAFGIxaE6uk/F34KvhF-VkEaWJhECspfzQ/view?website#2",
-        imageUrl: newsappImg,
+        codeLink: " https://github.com/LindokuhleMnguni56/redux.git",
+        projectLink:"https://counter-9b370.web.app",
+        imageUrl: redux,
         tag: "Ionic",
      },
      
+     {
+        title: "Redux",
+        description: "A fullstack Todo list app running on mobile",
+        codeLink: " https://github.com/LindokuhleMnguni56/redux.git",
+        projectLink:"https://counter-9b370.web.app",
+        imageUrl: redux,
+        tag: "Ionic",
+     },
+
+     {
+        title: "Budget",
+        description: "A fullstack Todo list app running on mobile",
+        codeLink: " https://github.com/LindokuhleMnguni56/budget",
+        projectLink:"https://budgetapp-84f67.web.app",
+        imageUrl: budget,
+        tag: "Ionic",
+     },
+
+     {
+        title: "Redux",
+        description: "A fullstack Todo list app running on mobile",
+        codeLink: " https://github.com/LindokuhleMnguni56/redux.git",
+        projectLink:"https://counter-9b370.web.app",
+        imageUrl: redux,
+        tag: "Ionic",
+     },
+
+     {
+        title: "Redux",
+        description: "A fullstack Todo list app running on mobile",
+        codeLink: " https://github.com/LindokuhleMnguni56/redux.git",
+        projectLink:"https://counter-9b370.web.app",
+        imageUrl: redux,
+        tag: "Ionic",
+     },
 ]
    
 
